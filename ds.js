@@ -19,12 +19,7 @@
       {
          "numero":5,
          "descripcion":"Enfermedades del sistema digestivo:"
-      },
-      {
-         "numero":6,
-         "Enfermedades ginecológicas y de las mamas:"
       }
    ]
 }
-
 
