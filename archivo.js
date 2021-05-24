@@ -2,7 +2,7 @@
    "result":[
       {
          "numero":1,
-         "descripcion":"¿Ha padecido de estas enfermedades o tiene conocimiento de sufir o tener algun hallazgo medico-clinico asociado a alguna de las siguientes enfermedades mentales o psiuiatricas o del comportamiento?"
+         "descripcion":"¿Ha tenido estas enfermedades o tiene conocimiento de sufir o tener algun hallazgo medico-clinico asociado a alguna de las siguientes enfermedades mentales o psiuiatricas o del comportamiento?"
       },
       {
          "numero":2,
