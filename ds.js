@@ -26,9 +26,7 @@
          "descripcion":"Enfermedades del corazón y sistema circulatorio:",
 		 "ejemplo":"infarto del miocardio,
 			enfermedad coronaria, angina de pecho, enfermedad reumática, hipertensión arterial,
-			soplos al corazón, arritmias, accidentes cerebrovasculares, aneurismas, várices, flebitis,
-			úlceras vasculares o cualquier otra enfermedad al corazón, arterias, venas o sistema
-			circulatorio."
+			soplos al corazón, arritmias, accidentes cerebrovasculares, etc."
       },
       {
          "numero":5,
