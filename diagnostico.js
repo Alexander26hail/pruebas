@@ -1,0 +1,92 @@
+{
+   "result":[
+      {
+         "BeneficiarioId":1,
+         "DetalleDeclaracionId":"1121141",
+         "TipoBeneficiario":"Cotizante",
+         "Cie10":"e10",
+         "Intervencion":"si",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+      {
+         "BeneficiarioId":2,
+         "DetalleDeclaracionId":"333333",
+         "TipoBeneficiario":"Cotizante 2",
+         "Cie10":"e20",
+         "Intervencion":"no",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+	  {
+         "BeneficiarioId":3,
+         "DetalleDeclaracionId":"242424",
+         "TipoBeneficiario":"Cotizante 3",
+         "Cie10":"e24",
+         "Intervencion":"si",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+	  {
+         "BeneficiarioId":4,
+         "DetalleDeclaracionId":"242424",
+         "TipoBeneficiario":"Cotizante 4",
+         "Cie10":"e25",
+         "Intervencion":"si",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+	  {
+         "BeneficiarioId":5,
+         "DetalleDeclaracionId":"242424",
+         "TipoBeneficiario":"Cotizante 5",
+         "Cie10":"e20",
+         "Intervencion":"no",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+	  {
+         "BeneficiarioId":6,
+         "DetalleDeclaracionId":"2424",
+         "TipoBeneficiario":"Cotizante 6",
+         "Cie10":"e15",
+         "Intervencion":"si",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+	  {
+         "BeneficiarioId":7,
+         "DetalleDeclaracionId":"2424",
+         "TipoBeneficiario":"Cotizante 7",
+         "Cie10":"e11",
+         "Intervencion":"si",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+	  {
+         "BeneficiarioId":8,
+         "DetalleDeclaracionId":"2424",
+         "TipoBeneficiario":"Cotizante 8",
+         "Cie10":"e04",
+         "Intervencion":"si",
+         "MesDiagnostico":"08-07-2021",
+         "AnoDiagnostico":"2021",
+         "ExclusionFcs":"no",
+         "FechaExclusionFcs":"08-07-2021"
+      },
+   ]
+}
